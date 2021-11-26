@@ -42,15 +42,19 @@ svg {
 }
 
 .general img {
-  max-width: 200px;
-}
-
-.contact {
-}
-
-.general img {
-  margin: 0 auto;
+  display: block;
   text-align: center;
+}
+
+.gslogo {
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+.brokerage {
+  margin: 0 auto;
+  display: block;
+  margin-top: 1rem;
 }
 
 .contact h1 {
